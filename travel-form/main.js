@@ -5,6 +5,8 @@ form.addEventListener("submit", function(event){
 
     let fName = form.fName.value
     let lName = form.lName.value
+    form.fName.value = ""
+    form.lName.value = ""
 
     let age = form.age.value
 
