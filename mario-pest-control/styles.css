@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    font-family: Verdana;
+}
+#goomba {
+    height: 200px;
+    width: 200px;
+    margin-left: 10px;
+}
+#bomb {
+    height: 200px;
+}
+#cheep {
+    height: 200px;
+}
+#container {
+    display: grid;
+    margin-left: 50px;
+    margin-top: 20px;
+    font-family: Verdana;
+}
