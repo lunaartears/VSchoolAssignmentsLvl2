@@ -1,0 +1,82 @@
+#box1 {
+    height: 100px;
+    width: 100px;
+    background-color:brown;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    transition-property: border-radius;
+    transition-duration: 3s;
+}
+#box1:hover {
+    background-color: rgb(200, 122, 19);
+    border-radius: 25px;
+}
+
+#box2 {
+    height: 100px;
+    width: 100px;
+    background-color:brown;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#box2:hover {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+#box3 {
+    height: 100px;
+    width: 100px;
+    background-color:brown;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#box3:hover {
+    background-color: black;
+    padding: 20px;
+}
+
+#box4 {
+    height: 100px;
+    width: 100px;
+    background-color:brown;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#box4:hover {
+    background-color: bisque;
+    padding: 20px;
+}
+
+#box5 {
+    height: 100px;
+    width: 100px;
+    background-color:brown;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    transition-property: background-color width height;
+    transition-duration: 1s;
+}
+#box5:hover {
+    background-color: chartreuse;
+    width: 150px;
+    height: 150px;
+}
+
+#box6 {
+    height: 100px;
+    width: 100px;
+    background-color:brown;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    transition-property: font-family background-color font-size;
+    transition-duration: 2s;
+}
+#box6:hover {
+    background-color: darkcyan;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+
