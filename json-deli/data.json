@@ -1,0 +1,133 @@
+{
+    "appetizers": [
+        {
+            "name": "veggie plate",
+            "description": "a plate with veggies and hummus",
+            "ingredients": [
+                "cucumber slices",
+                "carrot sticks",
+                "broccoli",
+                "hummus"
+            ],
+            "vegan": true,
+            "price": 5
+        },
+        {
+            "name": "fried mushrooms",
+            "description": "mushrooms fried in a beer batter with ranch dressing",
+            "ingredients": [
+                "mushrooms",
+                "beer batter",
+                "ranch dressing"
+            ],
+            "vegan": false,
+            "price": 6
+        }
+    ],
+    "cold sandwiches": [
+        {
+            "name": "hummus sandwich",
+            "description": "cold sandwich with hummus, tomato, and sprouts",
+            "ingredients": [
+                "wheat bread",
+                "hummus",
+                "tomato",
+                "sprouts"
+            ],
+            "vegan": true,
+            "price": 7.50
+        },
+        {
+            "name": "chicken sandwich",
+            "description": "cold sandwich with chicken, tomato, sprouts and mayo",
+            "ingredients": [
+                " wheat bread",
+                "chicken",
+                "tomato",
+                "sprouts",
+                "mayo"
+            ],
+            "vegan": false,
+            "price": 8.25
+        }
+    ],
+    "hot sandwiches": [
+        {
+            "name": "roast beef sandwich",
+            "description": "hot roast beef sandwich with swiss cheese, roasted red peppers and spicy mayo",
+            "ingredients": [
+                "wheat bun",
+                "roast beef",
+                "swiss cheese",
+                "red peppers",
+                "spicy mayo"
+            ],
+            "vegan": false,
+            "price": 10
+        },
+        {
+            "name": "mushroom sandwich",
+            "description": "hot portabello muchroom sandwich with, caramelized onions and red peper hummus",
+            "ingredients": [
+                "wheat bun",
+                "portabello mushroom",
+                "onions",
+                "red pepper hummus"
+            ],
+            "vegan": true,
+            "price": 9
+        }
+    ],
+    "desserts": [
+        {
+            "name": "lemon cake",
+            "description": "slice of lemon cake with lemon frosting and lemon zest",
+            "ingredients": [
+                "wheat flour",
+                "eggs",
+                "butter",
+                "salt",
+                "sugar"
+            ],
+            "vegan": false,
+            "price": 5
+        },
+        {
+            "name": "chocolate soufle",
+            "description": "a fluffy chocolate treat",
+            "ingredients": [
+                "milk chocolate",
+                "eggs"
+            ],
+            "vegan": false,
+            "price": 6
+        }
+    ],
+    "drinks": [
+        {
+            "name": "chai tea",
+            "description": "hot black tea with spices",
+            "ingredients": [
+                "black tea",
+                "cinnamon",
+                "clove",
+                "cardamom",
+                "black pepper",
+                "vanilla",
+                "star anis"
+            ],
+            "vegan": true,
+            "price": 4
+        },
+        {
+            "name": "iced coffee",
+            "description": "cold brew coffee over ice",
+            "ingredients": [
+                "coffee",
+                "ice"
+            ],
+            "vegan": true,
+            "price": 3
+        }
+    ]
+}
